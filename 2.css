@@ -1,0 +1,105 @@
+#trends{
+font-size:x-large;
+color:black;
+text-decoration: underline;
+font-style: italic;
+
+
+
+
+}
+#homepage{
+  font-size:x-large;
+  color:black;
+  text-decoration:double;
+  font-style: italic;
+
+}
+#welcome{
+
+    font-style: italic;
+    text-transform: capitalize;
+    margin-top:auto;
+    color: #502C58;
+   text-decoration:underline;
+   
+
+
+
+}
+#inspo{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    color:#502C58;
+
+
+
+}
+#Genesis{
+  font-size:x-large;
+ color:black;
+ text-decoration: underline;
+ font-style: italic;
+}
+
+
+
+#About{
+  font-size:x-large;
+  color:black;
+  font-style: italic;
+
+
+}
+#quality{
+  font-style: italic;
+  text-decoration: underline;
+}
+#contactbtn{
+  background-color:grey;
+  text-decoration: underline;
+  color: #5d2b6a;
+  font-weight:bolder;
+  background-origin: padding-box;
+  
+
+}
+#vision{
+  font-style: italic;
+  text-decoration: underline;
+
+}
+#mission{
+
+  font-style: italic;
+  text-decoration: underline;
+}
+#process{
+  font-style: italic;
+  text-decoration: underline;
+}
+#impact{
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#memorylane{
+  text-decoration: underline;
+}
+#cosmetics{
+  text-decoration: underline;
+}
+#Aaliyah{
+  text-decoration: underline;
+}
+#Rihanna{
+  text-decoration: underline;
+}
+#Gallery{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 900;
+  
+}
